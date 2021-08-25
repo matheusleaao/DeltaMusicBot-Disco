@@ -1,1 +1,1 @@
-## Bot para o Slack
+## Bot de música para Discord
