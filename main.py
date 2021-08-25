@@ -11,5 +11,5 @@ for i in range(len(cogs)):
 
 
 
-client.run("ODgwMDg4MjMzNjQ2NjQ1MzA5.YSZMCg.ULOlAwbJ1PcNsufbr0gAgn3S5Fg")
+client.run("TOKEK-APP-DISCORD")
 
